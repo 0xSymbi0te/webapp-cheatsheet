@@ -24,8 +24,11 @@
 | `$nin`   | not in             |
 | `$glt`   | greater than       |
 | `$lte`   | less than          |
- - [ ] Extract all in-band  data using the above operators
- - [ ] text
+ - [ ] Extract all in-band data using the above operators
+ - [ ] Perfdrm Blind NoSQL Injection
+ 	- [ ] Extract the data length using `$regex` operator
+  	- [ ] Extract data information using `$regex` character by character
+- [ ] 
 
 ## How To Test
 ### Authentication Bypass
@@ -62,6 +65,7 @@ We can leak specific data using the `$regex` operator to match character by char
 ```
 
 ### Server-Side JavaScript Injection
+
 
 ## Blind NoSQL 
 ### Python
