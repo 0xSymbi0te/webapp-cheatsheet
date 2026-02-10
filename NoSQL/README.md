@@ -25,7 +25,7 @@
 | `$glt`   | greater than       |
 | `$lte`   | less than          |
  - [ ] Extract all in-band data using the above operators
- - [ ] Perfdrm Blind NoSQL Injection
+ - [ ] Perform Blind NoSQL Injection
  	- [ ] Extract the data length using `$regex` operator
   	- [ ] Extract data information using `$regex` character by character
 - [ ] 
