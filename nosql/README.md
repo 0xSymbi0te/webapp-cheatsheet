@@ -1,6 +1,6 @@
 
 # NoSQL Injection
->* NoSQL injection occurs when user input is passed into a NoSQL query without being properly sanitized, allowing an attack to control the query with forcing the server to carry out unintended actions.
+> NoSQL injection occurs when user input is passed into a NoSQL query without being properly sanitized, allowing an attack to control the query with forcing the server to carry out unintended actions.
 >* There are four types:
 >	* In-Band
 >	* Blind
